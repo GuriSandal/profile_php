@@ -93,7 +93,8 @@
             <div class="col-lg-6">
               <ul>
                 <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>9 August</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.singhgurjant.com</span></li>
+                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>sandalgurjant@gmail.com</span></li>
+<!--                 <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.singhgurjant.com</span></li> -->
                 <!-- <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+9</span></li> -->
                 <!-- <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li> -->
               </ul>
@@ -102,7 +103,6 @@
               <ul>
                 <!-- <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li> -->
                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>BTech, Computer Science</span></li>
-                <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>info@singhgurjant.com</span></li>
                 <!-- <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li> -->
               </ul>
             </div>
@@ -743,7 +743,7 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Email Me</h3>
-            <p>info@singhgurjant.com</p>
+            <p>sandalgurjant@gmail.com</p>
             <!-- <p>sandalgurjant@gmail.com</p> -->
           </div>
         </div>
